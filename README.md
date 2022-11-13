@@ -17,8 +17,8 @@ The Spring Store uses a number of Technolgies to work properly. More specificall
 
 - [ReactNative] - To build the app architecture using JS.
 - [Redux] - To manage the state of the app.
-- [Reduxthunk] - Middleware for Redux.
+- [Redux thunk] - Middleware for Redux.
 - [ExpoLocation] - To select locations and manage necessary permissions.
 - [ExpoImagePicker] - To access the device camera and manage necessary permissions.
 - [Firebase] - Store & read data in the cloud. Also manage authentication.
-- [Google] [Cloud] [Platform] - Geocoding.
+- [Google Cloud Platform] - Geocoding.
