@@ -1,7 +1,7 @@
 # The Spring Store
 ## _A brief intro_
 
-The Spring Store is a react native based mobile app that simulates ecommerce features. Products are hosted on a Firebase Api and the app can be downloaded as an android APK here: https://expo.dev/accounts/santy.gegen/projects/the-spring-store/builds/085648dd-6a74-4cb2-bb84-76116c6588e8
+The Spring Store is a react native based mobile app that simulates ecommerce features. Product information is hosted on Firebase and consulted via API. The app can be downloaded as an android APK here: https://expo.dev/accounts/santy.gegen/projects/the-spring-store/builds/085648dd-6a74-4cb2-bb84-76116c6588e8
 
 ## Features
 - Browse your products
