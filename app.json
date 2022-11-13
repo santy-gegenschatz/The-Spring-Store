@@ -12,7 +12,8 @@
       "backgroundColor": "#ffffff"
     },
     "updates": {
-      "fallbackToCacheTimeout": 0
+      "fallbackToCacheTimeout": 0,
+      "url": "https://u.expo.dev/7f693618-c688-4221-9deb-fb31549c8593"
     },
     "assetBundlePatterns": [
       "**/*"
@@ -30,17 +31,20 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "extra": {
-      "eas": {
-        "projectId": "250bf4f0-2952-4f51-8435-ef60ac118cb2"
-      }
-    },
     "build": {
       "preview": {
         "android": {
           "buildType": "apk"
         }
       }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7f693618-c688-4221-9deb-fb31549c8593"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "sdkVersion"
     }
   }
 }
